@@ -11,3 +11,11 @@ _Checkou, **tela de produto**, catálogo, home com banner_
 ###### Melhorias do projeto
 
 __Melhoria 1__, _Melhoria 2_
+
+### Lingugen do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* My SQL
