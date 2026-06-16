@@ -4,8 +4,10 @@ Vamos criar um **e-commercer**, para a *emrpesa x* e blablabla
 
 ## Funcionalidades:
 
-Checkou, tela de produto, catálogo, home com banner
+_Checkou, **tela de produto**, catálogo, home com banner_
+
+**Checkou, _tela de produto_, catálogo, home com banner**
 
 ###### Melhorias do projeto
 
-Melhoria 1, Melhoria 2
+__Melhoria 1__, _Melhoria 2_
